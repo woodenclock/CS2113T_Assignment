@@ -6,12 +6,16 @@ My First Java/.idea/modules.xml
 My First Java/.idea/vcs.xml
 My First Java/src/First_Java.class
 
+Week 2/Q2/.idea/workspace.xml
+Week 2/Q2/out/production/Q2/Main.class
+
 Week 2/Q3/.gitignore
 Week 2/Q3/Q3.iml
 Week 2/Q3/.idea/.gitignore
 Week 2/Q3/.idea/misc.xml
 Week 2/Q3/.idea/modules.xml
 Week 2/Q3/.idea/vcs.xml
+Week 2/Q3/.idea/workspace.xml
 
 Week 2/Q4/.gitignore
 Week 2/Q4/Q4.iml
@@ -19,6 +23,8 @@ Week 2/Q4/.idea/.gitignore
 Week 2/Q4/.idea/misc.xml
 Week 2/Q4/.idea/modules.xml
 Week 2/Q4/.idea/vcs.xml
+Week 2/Q4/.idea/workspace.xml
+Week 2/Q4/out/production/Q4/Main.class
 
 Week 2/Q5/.gitignore
 Week 2/Q5/Q5.iml
@@ -62,3 +68,16 @@ Week 3/Q5/.idea/.gitignore
 Week 3/Q5/.idea/misc.xml
 Week 3/Q5/.idea/modules.xml
 Week 3/Q5/.idea/vcs.xml
+
+Week 3/Q6/.gitignore
+Week 3/Q6/Q6.iml
+Week 3/Q6/.idea/.gitignore
+Week 3/Q6/.idea/misc.xml
+Week 3/Q6/.idea/modules.xml
+Week 3/Q6/.idea/vcs.xml
+Week 3/Q7/.gitignore
+Week 3/Q7/Q7.iml
+Week 3/Q7/.idea/.gitignore
+Week 3/Q7/.idea/misc.xml
+Week 3/Q7/.idea/modules.xml
+Week 3/Q7/.idea/vcs.xml
